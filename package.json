@@ -1,0 +1,26 @@
+{
+  "name": "@gct256/markdown-style",
+  "version": "1.0.0",
+  "description": "my markdown stylesheet.",
+  "main": "markdown-style.css",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gct256/markdown-style.git"
+  },
+  "author": "gct256+github@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gct256/markdown-style/issues"
+  },
+  "homepage": "https://github.com/gct256/markdown-style#readme",
+  "dependencies": {
+    "highlight.js": "^9.12.0",
+    "markdown-it": "^8.4.2"
+  }
+}
